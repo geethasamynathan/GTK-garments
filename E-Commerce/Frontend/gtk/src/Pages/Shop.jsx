@@ -9,12 +9,14 @@ import NewsLetter from '../Components/NewsLetter/NewsLetter'
 
 const Shop = () => {
   return (
-    <div> 
+    <div>
+      <h1> Edited by Geetha</h1> 
       <Hero/>
       <Popular/>
       <Offers/>
       <NewCollection />
       <NewsLetter/>
+      
     </div>
   )
 }
